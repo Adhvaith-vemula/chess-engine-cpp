@@ -219,12 +219,6 @@ Once connected, the engine can play full games, be benchmarked against other eng
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">
   Built as a deep dive into board representation, move generation correctness, evaluation design, and search-efficiency engineering.
 </p>
