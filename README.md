@@ -180,13 +180,7 @@ Once connected, the engine can play full games, be benchmarked against other eng
 ## 🖼️ Gameplay
 
 <p align="center">
-  <em>[ Screenshot: ChessEngine vs. Stockfish in Cute Chess — add image at assets/gameplay_1.png ]</em><br>
   <img src="assets/gameplay_1.png" width="500" alt="Gameplay screenshot placeholder">
-</p>
-
-<p align="center">
-  <em>[ Screenshot: UCI console output during search — add image at assets/uci_console.png ]</em><br>
-  <img src="assets/uci_console.png" width="500" alt="UCI console screenshot placeholder">
 </p>
 
 ---
